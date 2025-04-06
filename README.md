@@ -1,2 +1,3 @@
 # FireBot_3-2_Project
-THis repository contains the project report and codes.
+This repository contains the project report and codes.
+In response to the increasing frequency and severity of wildfires, our project presents the design and implementation of a cutting-edge Image Processing-Based Fire-Bot. Leveraging advanced computer vision techniques, this autonomous system detects and responds to fire outbreaks in real-time. Through a combination of imaging and machine learning algorithms, the Fire-Bot swiftly identifies fire signatures, enabling rapid and precise intervention to mitigate potential disasters. This project not only showcases the power of technology in safeguarding lives and property but also serves as a testament to innovation in the realm of fire safety and disaster management.
